@@ -1,0 +1,5 @@
+co\sqasa\tasks\AgregarProducto.class
+co\sqasa\pageObjects\PaginaDeInicio.class
+co\sqasa\Steps\CarritoDeComprasSteps.class
+Usuario.class
+co\sqasa\tasks\AbrirPaginaDeInicio.class
