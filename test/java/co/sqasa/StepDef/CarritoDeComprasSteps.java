@@ -15,7 +15,7 @@ public class CarritoDeComprasSteps {
 
     @Given("^el usuario está en la página de inicio$")
     public void usuario_esta_en_pagina_inicio() {
-        usuario.attemptsTo(AbrirPaginaDeInicio.abrir()); // Usando el Task para abrir la página
+        usuario.attemptsTo(AbrirPaginaDeInicio.abrir());
     }
 
     @When("^el usuario agrega el primer producto con (\\d+) cantidades al carrito$")
