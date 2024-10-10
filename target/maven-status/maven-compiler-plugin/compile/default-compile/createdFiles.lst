@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-co\sqasa\pageObjects\PaginaDeInicio.class
-=======
 co\sqasa\tasks\AgregarProducto.class
 co\sqasa\pageObjects\PaginaDeInicio.class
 co\sqasa\Steps\CarritoDeComprasSteps.class
 Usuario.class
 co\sqasa\tasks\AbrirPaginaDeInicio.class
->>>>>>> 3c488b1e7d9c12a4939a300f0ebbe63019263be6
