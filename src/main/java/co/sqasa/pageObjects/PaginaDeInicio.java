@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package co.sqasa.pageObjects;
+=======
+package co.sqasa.pageObjects; // Asegúrate de que esto coincida con la estructura de tu directorio
+>>>>>>> 3c488b1e7d9c12a4939a300f0ebbe63019263be6
 
 import net.serenitybdd.core.pages.PageObject;
 import org.openqa.selenium.By;
@@ -13,5 +17,10 @@ public class PaginaDeInicio extends PageObject {
     }
 
     public void verificarProductosEnElCarrito() {
+<<<<<<< HEAD
+=======
+        // Lógica para verificar los productos en el carrito
+        // Por ejemplo, verificar que el carrito tenga los productos correctos
+>>>>>>> 3c488b1e7d9c12a4939a300f0ebbe63019263be6
     }
 }

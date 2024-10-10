@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 C:\Users\oezm\Documents\Proyectos\Pruebas de automatizacion\Reto_Tecnico\src\main\java\co\sqasa\pageObjects\PaginaDeInicio.java
+=======
+C:\Users\oezm\Reto_Tecnico\src\main\java\co\sqasa\pageObjects\PaginaDeInicio.java
+C:\Users\oezm\Reto_Tecnico\src\main\java\co\sqasa\Steps\CarritoDeComprasSteps.java
+C:\Users\oezm\Reto_Tecnico\src\main\java\co\sqasa\Steps\Usuario.java
+C:\Users\oezm\Reto_Tecnico\src\main\java\co\sqasa\tasks\AbrirPaginaDeInicio.java
+C:\Users\oezm\Reto_Tecnico\src\main\java\co\sqasa\tasks\AgregarProducto.java
+>>>>>>> 3c488b1e7d9c12a4939a300f0ebbe63019263be6
